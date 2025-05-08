@@ -279,6 +279,19 @@ a {
 }
 
 /*------------------------------------------------------------------------------
+  12) Link styles
+     Make anchor tags stand out on a white background while matching your palette
+------------------------------------------------------------------------------*/
+/* Global link reset (if you want *every* <a> to use this) */
+a {
+  color: var(--blue-600);              /* primary blue from your palette */
+  text-decoration: underline;          /* underline for clear affordance */
+  transition: color 0.2s ease-in-out;  /* smooth hover transition */
+}
+a:hover {
+  color: var(--blue-700);              /* darker blue on hover */
+}
+/*------------------------------------------------------------------------------
  11) Custom components & utilities
      Your existing animations, cards, tabs, modals, etc., with inline docs.
 ------------------------------------------------------------------------------*/

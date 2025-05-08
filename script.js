@@ -8,7 +8,7 @@ const recipeDetails = {
             <h4>Key Tools & Methods:</h4>
             <ul>
                 <li><strong>Material Flow Analysis (MFA):</strong> Quantifies materials/energy entering, circulating, and exiting the city. Uses steps like defining boundaries, data acquisition, calculation, and interpretation (e.g., Sankey diagrams). Reveals inefficiencies and targets for intervention (e.g., high C&D waste). Example: REFLOW project mapped flows in 6 EU cities.</li>
-                <li><strong>Urban Circularity Assessment (UCA):</strong> Builds on MFA, adding material stock accounting and circularity indicators (e.g., CityLoops project). Crucial for understanding material accumulation (e.g., in buildings).</li>
+                <li><strong>Urban Circularity Assessment (UCA):</strong> Builds on MFA, adding material stock accounting and circularity indicators (e.g. <a href="https://cityloops.eu/">CityLoops project</a>). Crucial for understanding material accumulation (e.g., in buildings).</li>
                 <li><strong>Stakeholder Mapping & Analysis:</strong> Identifies actors, their interests, influence, and potential impact (e.g., using Power vs. Interest grids, Stakeholder Analysis Tables). Vital for targeted engagement and collaboration. Examples: CCRI, European Circular Economy Stakeholder Platform, DUT Partnership mapping.</li>
             </ul>
             <h4>Key Insights:</h4>
@@ -165,9 +165,14 @@ const recipeDetails = {
             <p>Leverage the wealth of existing toolkits and guidance from EU cities and organizations, adapting them to the local context.</p>
             <h4>Key Resources & Frameworks:</h4>
             <ul>
-                <li><strong>Circular City Centre (C3):</strong> EIB initiative offering resources, practical info, advisory services, funding awareness.</li>
-                <li><strong>ICLEI's Circular City Actions Framework:</strong> Practical structure based on 5 strategies: Rethink, Regenerate, Reduce, Reuse, Recover. Guides project alignment with CE principles.</li>
-                <li><strong>Circular Cities Declaration (CCD) Report:</strong> ICLEI & Ellen MacArthur Foundation analysis of practices across European cities. Highlights trends, solutions, challenges for peer learning.</li>
+                <li><strong><a href="https://advisory.eib.org/about/circular-city-centre.htm">Circular City Centre (C3):</a></strong> EIB initiative offering resources, practical info, advisory services, funding awareness.</li>
+                <ul>
+                    <li><a href="https://advisory.eib.org/_tools/resources/documents/the-15-circular-steps-for-cities.pdf">The 15 Circular Steps for Cities</a></li>
+                    <li><a href="https://advisory.eib.org/_tools/resources/documents/a-guide-for-circularity-in-the-urban-built-environment.pdf">A Guide for Circularity in the Urban Built Environment</a></li>
+                    <li><a href="https://advisory.eib.org/_tools/resources/documents/a-catalogue-of-circular-city-actions-and-solutions.pdf">A Catalogue of Circular City Actions and Solutions</a></li>
+                </ul>
+                <li><strong><a href="https://circulars.iclei.org/action-framework/">ICLEI's Circular City Actions Framework:</a></strong> Practical structure based on 5 strategies: Rethink, Regenerate, Reduce, Reuse, Recover. Guides project alignment with CE principles.</li>
+                <li><strong><a href="https://iclei.org/e-library/circular-cities-declaration-report-2024/">Circular Cities Declaration Report:</a></strong> ICLEI & Ellen MacArthur Foundation analysis of practices across European cities. Highlights trends, solutions, challenges for peer learning.</li>
             </ul>
              <h4>Key Insights:</h4>
             <ul>
