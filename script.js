@@ -41,6 +41,8 @@ const recipeDetails = {
                 <li>Urban regeneration is a key chance to shift from linear ("take-make-dispose") to circular models.</li>
                 <li>Circularity addresses interconnected environmental, social, and economic dimensions (green jobs, social inclusion, quality of life).</li>
             </ul>
+            <h4>Case study:</h4>
+            <p>Circl is a  pavilion in Amsterdam's Zuidas district, designed to embody and promote circular economy principles. It has been constructed with sustainable materials. Reuse of materials was applied in the construction. Circl is energy-efficient and designed for easy disassembly. It serves as a living lab for sustainability, offering a space for learning, inspiration, and community engagement. The pavilion features a restaurant, conference rooms, and a green garden, all aimed at fostering collaboration and innovation in circular practices. Further information is available <a href = "https://circl.nl/themakingof/en/">here</a></p>
         `
     },
      recipe3: {
